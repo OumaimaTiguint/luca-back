@@ -6,7 +6,7 @@ Node, Express, MongoDB
 
 ## Install
 ```
-git clone
+git clone https://github.com/OumaimaTiguint/luca-back.git
 ```
 
 ```
